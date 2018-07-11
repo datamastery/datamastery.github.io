@@ -1,0 +1,7 @@
+name: Data Mastery
+markdown: kramdown
+highlighter: rouge
+kramdown:
+    input: GFM
+include: [code]
+exclude: ['*.jinja2']
